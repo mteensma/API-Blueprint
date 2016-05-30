@@ -12,9 +12,9 @@ The MaxHyp API allows for calculating the maximum mortgage amount
 
   + Attributes (object)
 
-  + amount: '0,00' (bigdecimal)
+  + amount: (number)
 
-  + Body
+  - Body
     {
-      "amount" : '0,00'
+      "amount" : Null
     }
