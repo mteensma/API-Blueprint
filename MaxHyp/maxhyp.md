@@ -10,12 +10,12 @@ The MaxHyp API allows for calculating the maximum mortgage amount
 
 + Response 200 (application/json)
 
-  + Attributes (object)
+  + attributes (object)
 
     + amount: (number) - the calculated amount
     + date: (date) - date untill the calculated amount remains valid
 
-  - Body
+  - body
     {
       "amount" : Null
     }
